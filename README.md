@@ -11,15 +11,19 @@ Tableau
 
 ## Results:
 - Checkout Times for Users
+ ![checkouttime]()
 - Checkout Times by Gender
-- Trips by weekday for Each Hour
+ ![checkouttimegender]()
+- Trips by weekday per Hour
+ ![checkoutTimePerHour]()
 - Trips by Gender (Weekday per Hour)
+ ![TripsByGender]()
 - User Trips by Gender by Weekday
+ ![Userbygender]()
+- Customers
+ ![Customers]()
 - Top Starting Locations
-- August Peak Hours:
-- Average Trip duration
-- Bike Utilization
-
+ ![StartingLocations]()
 
 ## Summary
 
