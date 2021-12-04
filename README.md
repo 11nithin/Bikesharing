@@ -58,3 +58,15 @@ Almost 50% of the riders are under 10 miuntes and 99 % are under 60 minutes
 
 ## Summary
 
+Based on the charts we can summarize:
+
+- Top starting locations are commercial/business areas
+- Subscribers are the primary user
+- Most trips duration are under 10 minutes.
+- office hours are the peak usage time
+
+From the data it will be a good idea to start bike sharing program in Des Moines. However it beneficial to collect additional information like:
+
+- Chart representing age group 
+- Additional data from other cities which is closer match to Des Moines city.
+- Impact of weather in bike sharing program taking the whole year into consideration.
