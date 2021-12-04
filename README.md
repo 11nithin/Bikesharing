@@ -9,6 +9,9 @@ The purpose of the project is to analyse usage of citi bikes in New York City.
 Pandas
 Tableau
 
+##Tableau Public Link
+[NYC_City Bikeshare](https://public.tableau.com/app/profile/nithin.jacob.james/viz/NYCCitibike_Challenge/NYCCitibikestory)
+
 ## Results:
 ### Checkout Times for Users
  ![checkouttime](https://github.com/11nithin/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.JPG)
