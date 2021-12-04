@@ -10,7 +10,7 @@ Pandas
 Tableau
 
 ## Tableau Public Link
-[NYC_City Bikeshare](https://public.tableau.com/app/profile/nithin.jacob.james/viz/NYCCitibike_Challenge/NYCCitibikestory)
+[NYC_City Bikeshare - Link to the Dashboard](https://public.tableau.com/app/profile/nithin.jacob.james/viz/NYCCitibike_Challenge/NYCCitibikestory)
 
 ## Results:
 ### Checkout Times for Users
