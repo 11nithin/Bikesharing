@@ -39,7 +39,7 @@ Almost 50% of the riders are under 10 miuntes and 99 % are under 60 minutes
  
  ### User Trips by Gender by Weekday
  
- Subscribers use bike most on Thursday
+ Subscribers use bike mostly on Thursday
 
  ![Userbygender](https://github.com/11nithin/Bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.JPG)
  
